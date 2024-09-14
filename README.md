@@ -12,9 +12,9 @@ The bot may break when receiving rewards (every 100 trophies), as the UI changes
 ## Installation Guide
 1. Visit **ShortcutInstallation** and open the provided link on your iPhone.
 2. Navigate to **Settings > Accessibility > Voice Control > Commands > Custom**.
-3. Create a custom command (e.g., “Hello”) and open Clash Royale.
-4. Physically mark the location of the "Battle" button.
-5. Go back to settings and assign the marked location to the custom command.
+3. Create two custom commands (e.g., “Hello”) and open Clash Royale.
+4. Physically mark the location of the "Battle" and post-battle "OK" buttons.
+5. Go back to settings and assign the marked location to the custom commands.
 6. Download **Voice Memos**.
 7. Edit the shortcut as per the instructions included at the top.
 8. Mute the Clash Royale game audio (found in settings).
